@@ -1,0 +1,1561 @@
+Pattern found at indexes :- 
+0
+9678
+False Positive 
+34 31 9299 
+31915 31807 460 
+19 17 10737 
+3 2 10349 
+Total Comparison 
+36 33 9301 
+31917 31809 462 
+21 19 10739 
+5 4 10351 
+
+Pattern not found
+False Positive 
+8 3 10591 
+0 0 432 
+5 6 10643 
+3 4 10394 
+Total Comparison 
+8 3 10591 
+0 0 432 
+5 6 10643 
+3 4 10394 
+
+Pattern not found
+False Positive 
+1 15 4472 
+0 0 373 
+0 0 10643 
+12 2 3667 
+Total Comparison 
+1 15 4472 
+0 0 373 
+0 0 10643 
+12 2 3667 
+
+Pattern not found
+False Positive 
+62 1 4472 
+0 0 153 
+1 1 10739 
+0 0 10394 
+Total Comparison 
+62 1 4472 
+0 0 153 
+1 1 10739 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 264 
+2 4 10643 
+0 0 10351 
+Total Comparison 
+0 0 10591 
+0 0 264 
+2 4 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+122 0 9301 
+0 0 264 
+0 0 3228 
+0 0 208 
+Total Comparison 
+122 0 9301 
+0 0 264 
+0 0 3228 
+0 0 208 
+
+Pattern not found
+False Positive 
+0 91 3970 
+0 0 0 
+0 0 10739 
+0 0 3667 
+Total Comparison 
+0 91 3970 
+0 0 0 
+0 0 10739 
+0 0 3667 
+
+Pattern not found
+False Positive 
+1 0 10591 
+0 0 423 
+0 0 791 
+1 1 944 
+Total Comparison 
+1 0 10591 
+0 0 423 
+0 0 791 
+1 1 944 
+
+Pattern not found
+False Positive 
+3896 340 3397 
+0 0 264 
+1 1 10739 
+4 0 6347 
+Total Comparison 
+3896 340 3397 
+0 0 264 
+1 1 10739 
+4 0 6347 
+
+Pattern not found
+False Positive 
+0 86 1046 
+0 0 0 
+2 2 2636 
+0 0 10394 
+Total Comparison 
+0 86 1046 
+0 0 0 
+2 2 2636 
+0 0 10394 
+
+Pattern not found
+False Positive 
+21 0 10591 
+0 0 0 
+1 2 3356 
+1 1 10394 
+Total Comparison 
+21 0 10591 
+0 0 0 
+1 2 3356 
+1 1 10394 
+
+Pattern not found
+False Positive 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+Total Comparison 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 153 
+0 0 10739 
+3 0 3617 
+Total Comparison 
+0 0 3970 
+0 0 153 
+0 0 10739 
+3 0 3617 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 153 
+0 0 10739 
+3 0 3617 
+Total Comparison 
+0 0 3970 
+0 0 153 
+0 0 10739 
+3 0 3617 
+
+Pattern not found
+False Positive 
+5347 843 9301 
+0 0 555 
+0 0 3356 
+2 1 10394 
+Total Comparison 
+5347 843 9301 
+0 0 555 
+0 0 3356 
+2 1 10394 
+
+Pattern not found
+False Positive 
+4576 0 10591 
+0 0 94 
+0 0 10739 
+2 5 10351 
+Total Comparison 
+4576 0 10591 
+0 0 94 
+0 0 10739 
+2 5 10351 
+
+Pattern not found
+False Positive 
+3172 824 3970 
+0 0 373 
+6 1 10739 
+2 11 10351 
+Total Comparison 
+3172 824 3970 
+0 0 373 
+6 1 10739 
+2 11 10351 
+
+Pattern not found
+False Positive 
+50 10 3970 
+0 0 45 
+0 0 10643 
+10 3 10351 
+Total Comparison 
+50 10 3970 
+0 0 45 
+0 0 10643 
+10 3 10351 
+
+Pattern not found
+False Positive 
+51 70 10591 
+0 0 0 
+0 0 10739 
+0 0 10394 
+Total Comparison 
+51 70 10591 
+0 0 0 
+0 0 10739 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 0 
+1 0 3356 
+1 1 944 
+Total Comparison 
+0 0 10591 
+0 0 0 
+1 0 3356 
+1 1 944 
+
+Pattern not found
+False Positive 
+9 195 975 
+0 0 225 
+1 1 10739 
+2 2 10351 
+Total Comparison 
+9 195 975 
+0 0 225 
+1 1 10739 
+2 2 10351 
+
+Pattern not found
+False Positive 
+31 27 10591 
+0 0 264 
+0 0 10739 
+0 0 10394 
+Total Comparison 
+31 27 10591 
+0 0 264 
+0 0 10739 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 182 
+0 0 3228 
+15 6 10351 
+Total Comparison 
+0 0 3970 
+0 0 182 
+0 0 3228 
+15 6 10351 
+
+Pattern not found
+False Positive 
+5129 407 10591 
+0 0 433 
+3 1 3228 
+0 0 2387 
+Total Comparison 
+5129 407 10591 
+0 0 433 
+3 1 3228 
+0 0 2387 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 400 
+1 1 1 
+1 1 10351 
+Total Comparison 
+0 0 3970 
+0 0 400 
+1 1 1 
+1 1 10351 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 426 
+0 0 3228 
+1 4 3617 
+Total Comparison 
+0 0 9301 
+0 0 426 
+0 0 3228 
+1 4 3617 
+
+Pattern not found
+False Positive 
+1 15 4472 
+0 0 45 
+1 1 10739 
+2 3 944 
+Total Comparison 
+1 15 4472 
+0 0 45 
+1 1 10739 
+2 3 944 
+
+Pattern not found
+False Positive 
+1 15 4472 
+0 0 264 
+0 0 10739 
+16 26 3617 
+Total Comparison 
+1 15 4472 
+0 0 264 
+0 0 10739 
+16 26 3617 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 295 
+8 1 10643 
+0 0 10351 
+Total Comparison 
+0 0 9301 
+0 0 295 
+8 1 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+9 10 9301 
+0 0 0 
+0 0 2731 
+1 2 3667 
+Total Comparison 
+9 10 9301 
+0 0 0 
+0 0 2731 
+1 2 3667 
+
+Pattern not found
+False Positive 
+96 96 9301 
+0 0 0 
+0 4 2731 
+0 0 3667 
+Total Comparison 
+96 96 9301 
+0 0 0 
+0 4 2731 
+0 0 3667 
+
+Pattern not found
+False Positive 
+0 63 10591 
+0 0 179 
+11 13 634 
+0 0 10351 
+Total Comparison 
+0 63 10591 
+0 0 179 
+11 13 634 
+0 0 10351 
+
+Pattern not found
+False Positive 
+288 106 9301 
+0 0 264 
+1 1 87 
+0 0 10351 
+Total Comparison 
+288 106 9301 
+0 0 264 
+1 1 87 
+0 0 10351 
+
+Pattern not found
+False Positive 
+288 106 9301 
+0 0 555 
+0 0 208 
+0 0 2387 
+Total Comparison 
+288 106 9301 
+0 0 555 
+0 0 208 
+0 0 2387 
+
+Pattern not found
+False Positive 
+4667 0 2325 
+0 0 422 
+1 1 10643 
+0 1 10351 
+Total Comparison 
+4667 0 2325 
+0 0 422 
+1 1 10643 
+0 1 10351 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 5 
+0 0 10739 
+0 0 3667 
+Total Comparison 
+0 0 3970 
+0 0 5 
+0 0 10739 
+0 0 3667 
+
+Pattern not found
+False Positive 
+3 2 10591 
+0 0 360 
+0 0 10643 
+11 6 10394 
+Total Comparison 
+3 2 10591 
+0 0 360 
+0 0 10643 
+11 6 10394 
+
+Pattern not found
+False Positive 
+0 2 9301 
+0 0 373 
+0 0 10643 
+0 0 67 
+Total Comparison 
+0 2 9301 
+0 0 373 
+0 0 10643 
+0 0 67 
+
+Pattern not found
+False Positive 
+2 0 9301 
+0 0 0 
+1 2 2636 
+0 0 3617 
+Total Comparison 
+2 0 9301 
+0 0 0 
+1 2 2636 
+0 0 3617 
+
+Pattern not found
+False Positive 
+6 21 9301 
+0 0 433 
+0 0 3356 
+0 0 10394 
+Total Comparison 
+6 21 9301 
+0 0 433 
+0 0 3356 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 394 
+0 2 3356 
+1 1 10351 
+Total Comparison 
+0 0 10591 
+0 0 394 
+0 2 3356 
+1 1 10351 
+
+Pattern not found
+False Positive 
+295 30 9301 
+0 0 294 
+0 0 3356 
+2 2 10394 
+Total Comparison 
+295 30 9301 
+0 0 294 
+0 0 3356 
+2 2 10394 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 115 
+10 1 2731 
+1 1 10394 
+Total Comparison 
+0 0 9301 
+0 0 115 
+10 1 2731 
+1 1 10394 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 394 
+0 0 3228 
+0 0 3667 
+Total Comparison 
+0 0 10591 
+0 0 394 
+0 0 3228 
+0 0 3667 
+
+Pattern not found
+False Positive 
+246 20 9301 
+0 0 415 
+0 0 2731 
+1 2 3667 
+Total Comparison 
+246 20 9301 
+0 0 415 
+0 0 2731 
+1 2 3667 
+
+Pattern not found
+False Positive 
+54 47 9301 
+0 0 416 
+0 0 10739 
+7 0 3617 
+Total Comparison 
+54 47 9301 
+0 0 416 
+0 0 10739 
+7 0 3617 
+
+Pattern not found
+False Positive 
+303 0 10591 
+0 0 431 
+0 0 10739 
+1 1 2343 
+Total Comparison 
+303 0 10591 
+0 0 431 
+0 0 10739 
+1 1 2343 
+
+Pattern not found
+False Positive 
+1 0 3970 
+0 0 422 
+1 1 10643 
+0 0 10394 
+Total Comparison 
+1 0 3970 
+0 0 422 
+1 1 10643 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 394 
+4 5 780 
+0 0 890 
+Total Comparison 
+0 0 3970 
+0 0 394 
+4 5 780 
+0 0 890 
+
+Pattern not found
+False Positive 
+4 0 10591 
+0 0 408 
+7 8 10739 
+0 0 3667 
+Total Comparison 
+4 0 10591 
+0 0 408 
+7 8 10739 
+0 0 3667 
+
+Pattern not found
+False Positive 
+6 21 9301 
+0 0 14 
+0 6 3356 
+0 0 10394 
+Total Comparison 
+6 21 9301 
+0 0 14 
+0 6 3356 
+0 0 10394 
+
+Pattern not found
+False Positive 
+4991 131 9301 
+0 0 94 
+0 0 10739 
+0 0 10351 
+Total Comparison 
+4991 131 9301 
+0 0 94 
+0 0 10739 
+0 0 10351 
+
+Pattern not found
+False Positive 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+Total Comparison 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+
+Pattern not found
+False Positive 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+Total Comparison 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+
+Pattern not found
+False Positive 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+Total Comparison 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 153 
+0 0 10739 
+3 0 3617 
+Total Comparison 
+0 0 3970 
+0 0 153 
+0 0 10739 
+3 0 3617 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 0 
+2 10 3228 
+4 10 8349 
+Total Comparison 
+0 0 3970 
+0 0 0 
+2 10 3228 
+4 10 8349 
+
+Pattern not found
+False Positive 
+3172 824 3970 
+0 0 380 
+0 0 10643 
+11 4 10351 
+Total Comparison 
+3172 824 3970 
+0 0 380 
+0 0 10643 
+11 4 10351 
+
+Pattern not found
+False Positive 
+2658 0 9301 
+0 0 453 
+14 2 10739 
+0 0 212 
+Total Comparison 
+2658 0 9301 
+0 0 453 
+14 2 10739 
+0 0 212 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 458 
+1 1 3228 
+0 0 10394 
+Total Comparison 
+0 0 4472 
+0 0 458 
+1 1 3228 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 295 
+1 0 61 
+1 2 3667 
+Total Comparison 
+0 0 3970 
+0 0 295 
+1 0 61 
+1 2 3667 
+
+Pattern not found
+False Positive 
+0 16 9301 
+0 0 415 
+0 0 3356 
+0 0 3667 
+Total Comparison 
+0 16 9301 
+0 0 415 
+0 0 3356 
+0 0 3667 
+
+Pattern not found
+False Positive 
+4365 186 9301 
+0 0 14 
+8 2 2636 
+0 0 205 
+Total Comparison 
+4365 186 9301 
+0 0 14 
+8 2 2636 
+0 0 205 
+
+Pattern not found
+False Positive 
+57 3 4472 
+0 0 360 
+6 0 10643 
+0 0 10351 
+Total Comparison 
+57 3 4472 
+0 0 360 
+6 0 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+9 195 975 
+0 0 45 
+1 1 10739 
+0 0 10394 
+Total Comparison 
+9 195 975 
+0 0 45 
+1 1 10739 
+0 0 10394 
+
+Pattern not found
+False Positive 
+9 195 975 
+0 0 264 
+0 0 10643 
+9 2 10394 
+Total Comparison 
+9 195 975 
+0 0 264 
+0 0 10643 
+9 2 10394 
+
+Pattern not found
+False Positive 
+0 22 10591 
+0 0 224 
+19 1 3356 
+3 0 10351 
+Total Comparison 
+0 22 10591 
+0 0 224 
+19 1 3356 
+3 0 10351 
+
+Pattern not found
+False Positive 
+34 0 9301 
+0 0 262 
+0 0 10739 
+0 0 10351 
+Total Comparison 
+34 0 9301 
+0 0 262 
+0 0 10739 
+0 0 10351 
+
+Pattern not found
+False Positive 
+34 0 9301 
+0 0 116 
+0 0 3228 
+0 0 10351 
+Total Comparison 
+34 0 9301 
+0 0 116 
+0 0 3228 
+0 0 10351 
+
+Pattern not found
+False Positive 
+23 5 4472 
+0 0 360 
+0 3 10643 
+0 0 341 
+Total Comparison 
+23 5 4472 
+0 0 360 
+0 3 10643 
+0 0 341 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 430 
+3 1 3228 
+11 5 3667 
+Total Comparison 
+0 0 4472 
+0 0 430 
+3 1 3228 
+11 5 3667 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 295 
+0 0 10739 
+6 5 3667 
+Total Comparison 
+0 0 4472 
+0 0 295 
+0 0 10739 
+6 5 3667 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 171 
+0 0 10643 
+11 6 6347 
+Total Comparison 
+0 0 9301 
+0 0 171 
+0 0 10643 
+11 6 6347 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 433 
+0 0 10739 
+1 6 10394 
+Total Comparison 
+0 0 4472 
+0 0 433 
+0 0 10739 
+1 6 10394 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 0 
+24 37 3228 
+14 1 10394 
+Total Comparison 
+0 0 9301 
+0 0 0 
+24 37 3228 
+14 1 10394 
+
+Pattern not found
+False Positive 
+9 10 9301 
+0 0 0 
+0 0 2731 
+1 2 3667 
+Total Comparison 
+9 10 9301 
+0 0 0 
+0 0 2731 
+1 2 3667 
+
+Pattern not found
+False Positive 
+61 0 4472 
+0 0 225 
+0 0 10643 
+0 9 3617 
+Total Comparison 
+61 0 4472 
+0 0 225 
+0 0 10643 
+0 9 3617 
+
+Pattern not found
+False Positive 
+10 0 153 
+0 0 94 
+18 3 3228 
+0 0 10394 
+Total Comparison 
+10 0 153 
+0 0 94 
+18 3 3228 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 4 10591 
+0 0 415 
+0 0 6640 
+2 2 10351 
+Total Comparison 
+0 4 10591 
+0 0 415 
+0 0 6640 
+2 2 10351 
+
+Pattern not found
+False Positive 
+288 106 9301 
+0 0 115 
+6 7 204 
+2 2 3667 
+Total Comparison 
+288 106 9301 
+0 0 115 
+6 7 204 
+2 2 3667 
+
+Pattern not found
+False Positive 
+5438 1025 3835 
+0 0 101 
+0 1 10643 
+0 0 10351 
+Total Comparison 
+5438 1025 3835 
+0 0 101 
+0 1 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+0 239 315 
+0 0 101 
+0 0 3228 
+1 2 3667 
+Total Comparison 
+0 239 315 
+0 0 101 
+0 0 3228 
+1 2 3667 
+
+Pattern not found
+False Positive 
+20 8 10591 
+0 0 182 
+9 11 3228 
+0 0 10394 
+Total Comparison 
+20 8 10591 
+0 0 182 
+9 11 3228 
+0 0 10394 
+
+Pattern not found
+False Positive 
+1 62 4472 
+0 0 555 
+0 0 10739 
+0 0 10351 
+Total Comparison 
+1 62 4472 
+0 0 555 
+0 0 10739 
+0 0 10351 
+
+Pattern not found
+False Positive 
+18 53 2584 
+0 0 294 
+6 3 10739 
+2 3 10351 
+Total Comparison 
+18 53 2584 
+0 0 294 
+6 3 10739 
+2 3 10351 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 253 
+0 0 10643 
+0 0 10394 
+Total Comparison 
+0 0 9301 
+0 0 253 
+0 0 10643 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 0 
+1 1 3228 
+1 1 10351 
+Total Comparison 
+0 0 10591 
+0 0 0 
+1 1 3228 
+1 1 10351 
+
+Pattern not found
+False Positive 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+Total Comparison 
+21 0 10591 
+0 0 0 
+0 0 10643 
+4 6 3667 
+
+Pattern not found
+False Positive 
+5021 191 3970 
+0 0 295 
+2 2 10643 
+4 6 10394 
+Total Comparison 
+5021 191 3970 
+0 0 295 
+2 2 10643 
+4 6 10394 
+
+Pattern not found
+False Positive 
+0 1 9301 
+0 0 5 
+0 0 10739 
+1 2 10394 
+Total Comparison 
+0 1 9301 
+0 0 5 
+0 0 10739 
+1 2 10394 
+
+Pattern not found
+False Positive 
+88 0 3970 
+0 0 89 
+0 0 10739 
+0 0 2343 
+Total Comparison 
+88 0 3970 
+0 0 89 
+0 0 10739 
+0 0 2343 
+
+Pattern not found
+False Positive 
+56 18 10591 
+0 0 400 
+3 2 10739 
+1 0 10394 
+Total Comparison 
+56 18 10591 
+0 0 400 
+3 2 10739 
+1 0 10394 
+
+Pattern not found
+False Positive 
+1755 18 4472 
+0 0 0 
+0 0 10643 
+0 0 10351 
+Total Comparison 
+1755 18 4472 
+0 0 0 
+0 0 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 423 
+0 16 3356 
+1 0 3617 
+Total Comparison 
+0 0 4472 
+0 0 423 
+0 16 3356 
+1 0 3617 
+
+Pattern not found
+False Positive 
+178 95 975 
+0 0 453 
+2 3 3228 
+0 5 3667 
+Total Comparison 
+178 95 975 
+0 0 453 
+2 3 3228 
+0 5 3667 
+
+Pattern not found
+False Positive 
+3337 244 975 
+0 0 153 
+0 0 791 
+0 0 10394 
+Total Comparison 
+3337 244 975 
+0 0 153 
+0 0 791 
+0 0 10394 
+
+Pattern not found
+False Positive 
+57 3 4472 
+0 0 360 
+6 0 10643 
+0 0 10351 
+Total Comparison 
+57 3 4472 
+0 0 360 
+6 0 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+9 195 975 
+0 0 427 
+4 1 10739 
+0 0 10394 
+Total Comparison 
+9 195 975 
+0 0 427 
+4 1 10739 
+0 0 10394 
+
+Pattern not found
+False Positive 
+9 195 975 
+0 0 45 
+1 1 10739 
+0 0 10394 
+Total Comparison 
+9 195 975 
+0 0 45 
+1 1 10739 
+0 0 10394 
+
+Pattern not found
+False Positive 
+74 126 9301 
+0 0 295 
+1 1 3356 
+0 0 10394 
+Total Comparison 
+74 126 9301 
+0 0 295 
+1 1 3356 
+0 0 10394 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 264 
+0 1 10739 
+0 1 10394 
+Total Comparison 
+0 0 10591 
+0 0 264 
+0 1 10739 
+0 1 10394 
+
+Pattern not found
+False Positive 
+0 0 1046 
+0 0 0 
+3 4 10739 
+0 0 10351 
+Total Comparison 
+0 0 1046 
+0 0 0 
+3 4 10739 
+0 0 10351 
+
+Pattern not found
+False Positive 
+2 5 3970 
+0 0 295 
+0 1 10643 
+2 2 10351 
+Total Comparison 
+2 5 3970 
+0 0 295 
+0 1 10643 
+2 2 10351 
+
+Pattern not found
+False Positive 
+288 106 9301 
+0 0 380 
+4 3 70 
+0 0 6391 
+Total Comparison 
+288 106 9301 
+0 0 380 
+4 3 70 
+0 0 6391 
+
+Pattern not found
+False Positive 
+288 106 9301 
+0 0 423 
+0 0 634 
+3 4 944 
+Total Comparison 
+288 106 9301 
+0 0 423 
+0 0 634 
+3 4 944 
+
+Pattern not found
+False Positive 
+5181 511 137 
+0 0 352 
+0 1 10739 
+3 0 10394 
+Total Comparison 
+5181 511 137 
+0 0 352 
+0 1 10739 
+3 0 10394 
+
+Pattern not found
+False Positive 
+3639 203 0 
+0 0 433 
+1 1 10739 
+0 0 3617 
+Total Comparison 
+3639 203 0 
+0 0 433 
+1 1 10739 
+0 0 3617 
+
+Pattern not found
+False Positive 
+2097 1 0 
+0 0 295 
+0 0 10643 
+0 0 10351 
+Total Comparison 
+2097 1 0 
+0 0 295 
+0 0 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+0 0 14 
+0 0 101 
+2 1 10643 
+3 1 10394 
+Total Comparison 
+0 0 14 
+0 0 101 
+2 1 10643 
+3 1 10394 
+
+Pattern not found
+False Positive 
+0 0 14 
+0 0 101 
+2 1 10643 
+3 1 10394 
+Total Comparison 
+0 0 14 
+0 0 101 
+2 1 10643 
+3 1 10394 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 352 
+0 0 10643 
+2 3 10351 
+Total Comparison 
+0 0 4472 
+0 0 352 
+0 0 10643 
+2 3 10351 
+
+Pattern not found
+False Positive 
+0 239 315 
+0 0 433 
+1 1 10739 
+1 2 10351 
+Total Comparison 
+0 239 315 
+0 0 433 
+1 1 10739 
+1 2 10351 
+
+Pattern not found
+False Positive 
+0 239 315 
+0 0 432 
+0 0 3228 
+1 0 10351 
+Total Comparison 
+0 239 315 
+0 0 432 
+0 0 3228 
+1 0 10351 
+
+Pattern not found
+False Positive 
+1 0 468 
+0 0 262 
+1 1 10643 
+1 1 10394 
+Total Comparison 
+1 0 468 
+0 0 262 
+1 1 10643 
+1 1 10394 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 0 
+2 2 10643 
+0 0 3667 
+Total Comparison 
+0 0 3970 
+0 0 0 
+2 2 10643 
+0 0 3667 
+
+Pattern not found
+False Positive 
+0 0 3970 
+0 0 5 
+0 0 10739 
+0 0 3667 
+Total Comparison 
+0 0 3970 
+0 0 5 
+0 0 10739 
+0 0 3667 
+
+Pattern not found
+False Positive 
+3 2 10591 
+0 0 0 
+19 8 10643 
+1 2 10351 
+Total Comparison 
+3 2 10591 
+0 0 0 
+19 8 10643 
+1 2 10351 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 264 
+2 4 10643 
+0 0 10351 
+Total Comparison 
+0 0 10591 
+0 0 264 
+2 4 10643 
+0 0 10351 
+
+Pattern not found
+False Positive 
+0 0 9301 
+0 0 254 
+3 3 3356 
+1 4 3667 
+Total Comparison 
+0 0 9301 
+0 0 254 
+3 3 3356 
+1 4 3667 
+
+Pattern not found
+False Positive 
+1 0 10591 
+0 0 295 
+1 1 3228 
+0 0 10351 
+Total Comparison 
+1 0 10591 
+0 0 295 
+1 1 3228 
+0 0 10351 
+
+Pattern not found
+False Positive 
+370 180 10591 
+0 0 360 
+0 0 10643 
+0 0 2343 
+Total Comparison 
+370 180 10591 
+0 0 360 
+0 0 10643 
+0 0 2343 
+
+Pattern not found
+False Positive 
+0 0 10591 
+0 0 0 
+1 1 3228 
+1 1 10351 
+Total Comparison 
+0 0 10591 
+0 0 0 
+1 1 3228 
+1 1 10351 
+
+Pattern not found
+False Positive 
+2658 0 9301 
+0 0 400 
+28 15 10643 
+0 0 229 
+Total Comparison 
+2658 0 9301 
+0 0 400 
+28 15 10643 
+0 0 229 
+
+Pattern not found
+False Positive 
+206 20 9301 
+0 0 430 
+0 0 3356 
+1 0 614 
+Total Comparison 
+206 20 9301 
+0 0 430 
+0 0 3356 
+1 0 614 
+
+Pattern not found
+False Positive 
+0 6 3970 
+0 0 415 
+0 0 2636 
+0 0 6391 
+Total Comparison 
+0 6 3970 
+0 0 415 
+0 0 2636 
+0 0 6391 
+
+Pattern not found
+False Positive 
+0 6 3970 
+0 0 465 
+1 2 10643 
+0 0 208 
+Total Comparison 
+0 6 3970 
+0 0 465 
+1 2 10643 
+0 0 208 
+
+Pattern not found
+False Positive 
+198 229 10591 
+0 0 380 
+5 4 10643 
+1 10 10351 
+Total Comparison 
+198 229 10591 
+0 0 380 
+5 4 10643 
+1 10 10351 
+
+Pattern not found
+False Positive 
+123 232 9301 
+0 0 43 
+15 17 10739 
+2 4 3667 
+Total Comparison 
+123 232 9301 
+0 0 43 
+15 17 10739 
+2 4 3667 
+
+Pattern not found
+False Positive 
+0 0 4472 
+0 0 45 
+1 1 780 
+1 3 10394 
+Total Comparison 
+0 0 4472 
+0 0 45 
+1 1 780 
+1 3 10394 
+
+Pattern not found
+False Positive 
+303 0 10591 
+0 0 431 
+0 0 10739 
+1 1 2343 
+Total Comparison 
+303 0 10591 
+0 0 431 
+0 0 10739 
+1 1 2343 
